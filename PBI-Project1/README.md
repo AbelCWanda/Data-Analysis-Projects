@@ -1,3 +1,12 @@
+
+<img width="1176" height="662" alt="Screenshot 2026-01-19 154138" src="https://github.com/user-attachments/assets/d736e9c9-235c-4a9e-a95e-dcacd8fe31e0" />
+
+<img width="1167" height="669" alt="Screenshot 2026-01-19 154204" src="https://github.com/user-attachments/assets/c67353c5-b68d-49d1-8c43-865c6f9daf94" />
+
+
+
+
+
 📈 Marketing Sales Dashboard: Análise de Performance e Canais
 🎯 Objetivo do Projeto
 Este dashboard foi criado para apoiar a Equipa de Marketing na tomada de decisões estratégicas. O foco é identificar padrões de consumo, performance por região e a eficácia dos canais de vendas para otimizar os investimentos em campanhas.
